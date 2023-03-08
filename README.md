@@ -4,7 +4,7 @@ Bem Vindo! Eu sou o Márcio 👋
 - 🌱 Eu estou estudando JQuery
 
 <div>
-  <a href="https://github.com/Marplayh">
+  <a href="https://beacons.ai/Marplayh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marplayh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <br/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marplayh&layout=compact&langs_count=7&theme=tokyonight"/>
