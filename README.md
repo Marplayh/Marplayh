@@ -1,7 +1,7 @@
 Bem Vindo! Eu sou o Márcio 👋
 
 - 🔭 Eu estou trabalhando em meu portfólio
-- 🌱 Eu estou estudando JQuery
+- 🌱 Eu estou estudando React e nodeJS
 
 <div>
   <a href="https://beacons.ai/Marplayh">
