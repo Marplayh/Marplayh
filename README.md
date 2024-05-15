@@ -3,6 +3,8 @@ Bem Vindo! Eu sou o Márcio 👋
 <div>
   <a href="https://beacons.ai/Marplayh">
     <br/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marplayh"/>
+    <br/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marplayh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <br/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marplayh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
