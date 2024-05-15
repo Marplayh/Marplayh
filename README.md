@@ -1,8 +1,5 @@
 Bem Vindo! Eu sou o Márcio 👋
 
-- 🔭 Eu estou trabalhando em meu portfólio
-- 🌱 Eu estou estudando React e nodeJS
-
 <div>
   <a href="https://beacons.ai/Marplayh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marplayh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
