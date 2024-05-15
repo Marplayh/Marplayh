@@ -4,9 +4,7 @@ Bem Vindo! Eu sou o Márcio 👋
   <a href="https://beacons.ai/Marplayh">
     <br/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marplayh&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
-    <br/>
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Marplayh&theme=tokyonight&hide_border=false"/>
-  <br/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marplayh&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
